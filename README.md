@@ -1,6 +1,5 @@
-# Algorithm-Practice
+# Algorithms-Practice
 
-PUST-CSE
 CSE-2202 (Algorithms Sessional)
 
 Created By
