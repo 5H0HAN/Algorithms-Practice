@@ -1,6 +1,7 @@
 # Algorithm-Practice
 
-PUST-CSE-2201
+PUST-CSE
+CSE-2202
 
 Created By
 -------------------------------------------------------
